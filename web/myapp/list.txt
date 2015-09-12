@@ -1,0 +1,278 @@
+1,Akki rotti
+2,American fried rice
+3,Arroz caldo
+4,Arroz chaufa
+5,Arroz con gandules
+6,Arroz con pollo
+7,Arroz de lisa
+8,Arroz negro
+9,Bánh chưng
+10,Ba-wan
+11,Bi pong moun
+12,Bibimbap
+13,Bibingka
+14,Biko
+15,Dan Bauk
+16,Biryani
+17,Bisi bele bath
+18,Bhat
+19,Cabidela
+20,Chimichanga
+21,Chitranna
+22,Ci fan tuan
+23,Claypot chicken rice
+24,Cơm tấm
+25,Congee
+26,Curd rice
+27,Curry rice
+28,Dal bhat
+29,Dirty Rice
+30,Dolma
+31,Dosa
+32,Étouffée
+33,Fried rice
+34,Fried rice
+35,Gallo pinto
+36,Gimbap
+37,Glutinous rice
+38,Gumbo
+39,Hainanese chicken rice
+40,Hoppin' John
+41,Horchata
+42,Idli
+43,Indonesian rice table
+44,Jambalaya
+45,Jíbaro
+46,Jiu niang
+47,Jollof rice
+48,Juk
+49,Kabsa
+50,Kateh
+51,Katsudon
+52,Kedgeree
+53,Ketupat
+54,Khao tom mat
+55,Kheer
+56,Khichdi
+57,Kiribath
+58,Kongbap
+59,Kushari
+60,Lemang
+61,Lemon rice
+62,Loco Moco
+63,Lokri
+64,Lugaw
+65,Lumpia
+66,Maifun
+67,Mandi
+68,Mansaf
+69,Maqluba
+70,Mont Di
+71,Mujaddara
+72,Nasi Campur
+73,Nasi Dagang
+74,Nasi goreng
+75,Nasi kandar
+76,Nasi kerabu
+77,Nasi kuning
+78,Nasi lemak
+79,Nasi Padang
+80,Nasi tumpang
+81,Nasi uduk
+82,Nurungji
+83,Onigiri
+84,Pabellón criollo
+85,Paella
+86,Pancit
+87,Panta bhat
+88,Pares
+89,Perde pilavı
+90,Phở
+91,Pilaf
+92,Platillo Moros y Cristianos
+93,Plov
+94,Pongal
+95,Puffed rice
+96,Puso
+97,Puto
+98,Puttu
+99,Red beans 
+100,Rice and curry
+101,Rice and gravy
+102,Rice and peas
+103,Rice bread
+104,Rice cakes
+105,Chao
+106,Rice congee
+107,Rice Krispies
+108,Rice noodle roll
+109,Rice pudding
+110,Risotto
+111,Sarma
+112,Sel roti
+113,Serabi
+114,Shrimp Creole
+115,Siopao
+116,Spanish rice
+117,Steamed rice
+118,Stir fry
+119,Suman
+120,Sushi
+121,Sweet saffron rice
+122,Tangyuan
+123,Tapai
+124,Thai fried rice
+125,Thalassery biryani
+126,Xôi
+127,Yabra'
+128,Yakimochi
+129,Yeung Chow fried rice
+130,Zarda
+131,Zeera rice
+132,Zereshk Polo
+133,Zongzi
+134,Zosui
+135,Angel cake
+136,Angel food cake
+137,Apple cake
+138,Aranygaluska
+139,Babka
+140,Basbousa
+141,Better than sex cake
+142,Boston cream pie
+143,Banana cake/bread
+144,Banoffee pie
+145,Bara brith
+146,Battenberg cake
+147,Baumkuchen
+148,Bibingka
+149,Bienenstich
+150,Birthday cake
+151,Black Forest cake
+152,Blondie
+153,Bolo de mel
+154,Brownie
+155,Buccellato
+156,Bundt cake
+157,Butter cake
+158,Butterfly cake
+159,Cassata
+160,Carrot cake
+161,Cheesecake
+162,Chiffon cake
+163,Chocolate cake
+164,Christmas cake
+165,Coconut cake
+166,Coffee cake
+167,Cremeschnitte
+168,Croquembouche
+169,Crystal cake
+170,Cupcake
+171,Dacquoise
+172,Date and walnut loaf
+173,Date square
+174,Depression cake
+175,Devil's food cake
+176,Dobos cake
+177,Dundee cake
+178,Eccles cake
+179,Esterházy torte
+180,Fat rascal
+181,Faworki
+182,Financier
+183,Flourless chocolate cake
+184,Fondant Fancy
+185,Frog cake
+186,Fruitcake
+187,Funing big cake
+188,Genoa cake
+189,Genoise
+190,Gingerbread
+191,Gooey butter cake
+192,Hash brownies
+193,Hot milk cake
+194,Ice cream cake
+195,Jaffa Cakes
+196,Kabuni
+197,Karpatka
+198,Kiev cake
+199,King cake
+200,Kladdkaka
+201,Kolacz
+202,Kolaczki
+203,Kouign-amann
+204,Kutia
+205,Kransekake
+206,Kremówka
+207,Krowka
+208,Lamington
+209,Layer cake
+210,Madeira cake
+211,Makowiec
+212,Magdalena
+213,Mantecada
+214,Marble cake
+215,Mazurek
+216,Merveilleux
+217,Mille-feuille
+218,Molten chocolate cake
+219,Mooncake
+220,Muffin
+221,Opera cake
+222,Paczki
+223,Pancake
+224,Panpepato
+225,Panettone
+226,Parkin
+227,Pavlova
+228,Petit Gâteau
+229,Petits fours
+230,Pineapple upside-down cake
+231,Plum cake
+232,Pound cake
+233,Princess Cake
+234,Prinzregententorte
+235,Pumpkin bread
+236,Punschkrapfen
+237,Queen Elizabeth cake
+238,Red bean cake
+239,Red velvet cake
+240,Rum cake
+241,Rum baba
+242,Ruske kape
+243,Sachertorte
+244,Šakotis
+245,Salzburger Nockerl
+246,Sekacz
+247,Sernik
+248,Sesame seed cake
+249,Sfouf
+250,Simnel cake
+251,Smoked salmon cheesecake
+252,Smörgåstårta
+253,Snowball cake
+254,Snow skin mooncake
+255,Soufflé
+256,Spekkoek
+257,Spice cake
+258,Spit cake
+259,Sponge cake
+260,St. Honoré cake
+261,Stack cake
+262,Streuselkuchen
+263,Suncake
+264,Swiss roll
+265,Tarte Tatin
+266,Tea loaf
+267,Teacake
+268,Tiramisu
+269,Tompouce
+270,Torta Tre Monti
+271,Tres leches cake
+272,Tunis cake
+273,Upside-down cake
+274,Victoria sponge cake
+275,Wedding cake
+276,Welsh cake
+277,Whoopie pies
+278,Wine cake

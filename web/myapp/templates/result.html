@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+		food search engine
+	</title>	
+<!-- Javascript goes in the document HEAD -->
+<script type="text/javascript">
+function altRows(id){
+	if(document.getElementsByTagName){  
+		
+		var table = document.getElementById(id);  
+		var rows = table.getElementsByTagName("tr"); 
+		 
+		for(i = 0; i < rows.length; i++){          
+			if(i % 2 == 0){
+				rows[i].className = "evenrowcolor";
+			}else{
+				rows[i].className = "oddrowcolor";
+			}      
+		}
+	}
+}
+
+window.onload=function(){
+	altRows('alternatecolor');
+}
+</script>
+<!-- CSS goes in the document HEAD or added to your external stylesheet -->
+<style type="text/css">
+table.altrowstable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-color: #a9c6c9;
+	border-collapse: collapse;
+}
+table.altrowstable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+}
+table.altrowstable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+}
+.oddrowcolor{
+	background-color:#d4e3e5;
+}
+.evenrowcolor{
+	background-color:#c3dde0;
+}
+</style>
+</head>
+<body bgcolor="#BBFFBB">
+<form method="get" id="searchform" action = "/search">
+<h1 align = "center" style="color:black;font-size:30px;font-family: verdana,arial,sans-serif">
+search result
+</h1>
+<p align = "center">
+<br>
+<a href="/"  align = "center" style="color:#4F9D9D;font-size:15px;font-family: verdana,arial,sans-serif">
+back to homepage
+</a>
+</br>
+<br align = "center">
+page:{{page}}
+</br>
+<br>
+<a href="/search?q={{info}}&page={{lastpage}}" align = "center" style="color:#4F9D9D;font-size:14px;font-family: verdana,arial,sans-serif">last</a>
+<a href="/search?q={{info}}&page={{nextpage}}" align = "center" style="color:#4F9D9D;font-size:14px;font-family: verdana,arial,sans-serif">next</a>
+</br>
+<table class="altrowstable" id="alternatecolor" align = "center">
+<tr><th>food id</th><th>name of food</th><th>url</th></tr>
+{% for user in data %}
+<tr>
+<td>{{ user.url }}</td>
+<td>{{ user.name }}</td>
+<td><a href = "/foods/{{ user.url }}">click here!</a></td>
+</tr>
+{% endfor %}
+</p>
+<form>
+</body>
+</html>
+
